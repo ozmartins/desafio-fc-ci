@@ -5,7 +5,7 @@
   "main": "src/triangle.js",
   "scripts": {
     "test": "jest --coverage",
-    "start": "node ./src/triangle"
+    "start": "node ./src/index"
   },
   "author": "Oséias da Silva Martins",
   "license": "ISC",
